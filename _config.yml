@@ -8,7 +8,8 @@ url: ''
 defaults:
 - scope:
     path: "/_posts"
-  values: ''
+  values:
+    layout: layout
 plugins:
 - jekyll-feed
 - jekyll-menus
