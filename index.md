@@ -10,23 +10,5 @@ page_sections:
   cta:
     url: https://seccore.cloudflareaccess.com/
     button_text: Launcher
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Hire me
-  content: You can hire me, please call or contact me on my email address.
-  slug: "#hire"
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: My portfolio
-  slug: "#portfolio"
-  content: You can see my portfolio on Instagram or Facebook
-  media:
-    image: ''
-    alt_text: ''
 
 ---
