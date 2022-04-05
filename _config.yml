@@ -5,7 +5,10 @@ email: kmhuglen@outlook.com
 description: ''
 baseurl: "/"
 url: ''
-defaults: []
+defaults:
+- scope:
+    path: "/_posts"
+  values: ''
 plugins:
 - jekyll-feed
 - jekyll-menus
