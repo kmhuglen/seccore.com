@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/hero-2-bg.png"
-  navigation: []
+  navigation:
+  - link: "#hire"
+    link_text: Hire me
   cta:
     url: https://seccore.cloudflareaccess.com/
     button_text: Launcher
