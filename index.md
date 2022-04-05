@@ -21,5 +21,14 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: My portfolio
+  slug: "#portfolio"
+  content: You can see my portfolio on Instagram or Facebook
+  media:
+    image: ''
+    alt_text: ''
 
 ---
