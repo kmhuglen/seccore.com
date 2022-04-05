@@ -12,8 +12,5 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-- template: simple-footer
-  block: footer-1
-  content: Made by Knut Magne Huglen
 
 ---
