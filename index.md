@@ -10,5 +10,14 @@ page_sections:
   cta:
     url: https://seccore.cloudflareaccess.com/
     button_text: Launcher
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Content-Feature Headline
+  content: Content-Feature Content
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
