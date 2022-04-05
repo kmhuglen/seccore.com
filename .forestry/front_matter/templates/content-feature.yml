@@ -44,3 +44,5 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+pages:
+- _posts/Welcome.md
