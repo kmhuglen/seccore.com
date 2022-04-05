@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/hero-2-bg.png"
   navigation:
+  - link: "#portfolio"
+    link_text: Portfolio
   - link: "#hire"
     link_text: Hire me
   cta:
