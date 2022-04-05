@@ -15,9 +15,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Content-Feature Headline
-  content: Content-Feature Content
-  slug: ''
+  headline: Hire me
+  content: You can hire me
+  slug: "#hire"
   media:
     image: ''
     alt_text: ''
