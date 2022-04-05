@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#login"
+    link_text: Login
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
