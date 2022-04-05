@@ -16,7 +16,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Hire me
-  content: You can hire me
+  content: You can hire me, please call or contact me on my email address.
   slug: "#hire"
   media:
     image: ''
