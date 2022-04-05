@@ -10,5 +10,10 @@ page_sections:
   cta:
     url: https://seccore.cloudflareaccess.com/
     button_text: Launcher
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
