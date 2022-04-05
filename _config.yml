@@ -3,7 +3,7 @@ title: SecCore.Com
 author: Knut Magne Huglen
 email: kmhuglen@outlook.com
 description: ''
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
