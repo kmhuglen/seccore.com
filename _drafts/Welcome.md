@@ -9,3 +9,4 @@ media:
   alt_text: ''
 
 ---
+This is a test with some text
