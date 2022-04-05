@@ -6,9 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "#login"
-    link_text: Login
+  navigation: []
   cta:
     url: https://seccore.cloudflareaccess.com/
     button_text: Launcher
