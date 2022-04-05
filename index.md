@@ -10,7 +10,7 @@ page_sections:
   - link: "#login"
     link_text: Login
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://seccore.cloudflareaccess.com/
+    button_text: Launcher
 
 ---
