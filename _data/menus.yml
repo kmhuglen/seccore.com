@@ -1,1 +1,5 @@
---- {}
+---
+main:
+- url: "/admin"
+  weight: 2
+  title: CMS
