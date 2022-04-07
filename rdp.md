@@ -10,7 +10,7 @@ Download [Cloudflared for Windows 64-bit](https://github.com/cloudflare/cloudfla
 cloudflared.exe access rdp --hostname rdp.seccore.com --url localhost:3390
 ```
 
-## Connect to Remote Destop
+## Connect to Remote Desktop
 
 ```PowerShell
 mstsc.exe /v:localhost:3390 /f
