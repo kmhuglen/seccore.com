@@ -8,8 +8,8 @@ page_sections:
   logo: "/uploads/2018/06/21/hero-2-bg.png"
   navigation: []
   cta:
-    url: https://seccore.cloudflareaccess.com/
-    button_text: Launcher
+    url: https://auth.seccore.com/
+    button_text: Login
 menu:
   main:
     identifier: home
